@@ -2,3 +2,5 @@
 *.xml
 *.log
 *.apk
+sft_output
+wandb
